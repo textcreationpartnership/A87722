@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short treatise of baptisme. Wherein is declared that only Christs disciples or beleevers are to be baptised. And that the baptising of infants hath no footing in the word of God, but is a meere tradition, received from our forefathers.</title>
+            <author>Killcop, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87722</idno>
+            <idno type="STC">Wing K440</idno>
+            <idno type="STC">Thomason E1113_1</idno>
+            <idno type="STC">ESTC R210166</idno>
+            <idno type="EEBO-CITATION">99868990</idno>
+            <idno type="PROQUEST">99868990</idno>
+            <idno type="VID">170637</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170637)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 249:E1113[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short treatise of baptisme. Wherein is declared that only Christs disciples or beleevers are to be baptised. And that the baptising of infants hath no footing in the word of God, but is a meere tradition, received from our forefathers.</title>
+                  <author>Killcop, Thomas.</author>
+               </titleStmt>
+               <extent>[3], 13, [2] p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed, 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Thomas Killcop (cf. dedicatory page).</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptism --  Early works to 1800.</term>
+               <term>Infant baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170637:1"/>
+            <!-- PDF PAGE 26 -->
+            <p>A ſhort TREATISE OF BAPTISME. Wherein is declared that only Chriſts Diſciples or beleevers are to be baptiſed.</p>
+            <p>And that the baptiſing of In<g ref="char:EOLhyphen"/>fants hath no footing in the word of God, but is a meere tradition, received from our fore<g ref="char:EOLhyphen"/>fathers.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:170637:2"/>
+            <!-- PDF PAGE 27 -->
+            <pb facs="tcp:170637:2"/>
+            <!-- PDF PAGE 27 -->
+            <head>To the Chriſtian Reader.</head>
+            <p>CHriſtian Reader, I am very briefe in a mat<g ref="char:EOLhyphen"/>ter of great concernment, though I know too well that the oppoſers of this truth are very large, bringing in in ſtead of Scripture, their far fetcht conſequences, though by ſuch conſequences as they bring I finde that many of the groſſeſt errors that can be are held out: as free will, falling away, and the like, and what makes ſo many differences of Re<g ref="char:EOLhyphen"/>ligion among thoſe that ſeeme to bee guided by the word: but their holding of points by conſequences; for the word is one and the ſame and therefore I de<g ref="char:EOLhyphen"/>ſire thee and all Gods people, to ſticke to Gods naked truth laid down in his word, and not by conſequences to overthrow plaine Scriptures. Farewell.</p>
+            <closer>
+               <signed>Thomas Kil<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>p.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:170637:3"/>
+            <!-- PDF PAGE 28 -->
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>John 4.1.</hi>
+                  </bibl>
+                  <p>Ieſus made and baptiſed more Diſciples then Iohn.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">B</seg>Y Diſciples is meant all in whom the worke of grace is wrought, as appeares <hi>Act.</hi> 1.13, 14, 15. and 2.41, 47. and 6.1. compared to<g ref="char:EOLhyphen"/>gether. By Baptiſme is meant the baptiſme of water, <hi>Iohn</hi> 3.22, 23. Baptiſme is a Greek word, and moſt properly ſignifies dipping in Engliſh: and therefore the parties bapti<g ref="char:EOLhyphen"/>ſed are ſaid to be baptiſed not at but in Jor<g ref="char:EOLhyphen"/>dan, <hi>Mark</hi> 1.5, 9, 10. and in Aenon, <hi>Iohn</hi> 3.23. <hi>Act.</hi> 8.38, 39. <hi>Math.</hi> 3.16.</p>
+            <p>Then note,<lb/>
+That the baptiſing or dipping in water belongs to Chriſts Diſciples, and none elſe. The Text tells us that Jeſus (meaning his Diſciples by his commiſſion) made and bap<g ref="char:EOLhyphen"/>tiſed more Diſciples (not more children) then <hi>Iohn. Iohn</hi> baptiſed many, and Chriſt baptiſed more. But all that <hi>Iohn</hi> baptiſed were Diſciples, and all that Jeſus baptiſed
+<pb n="2" facs="tcp:170637:3"/>
+               <!-- PDF PAGE 28 -->were alſo diſciples. They were diſciplized by the teaching &amp; then baptizing, according to Chriſts commiſſion, Matth. 28.19.20. Mark 16.16. which is all one commiſſion: they muſt firſt be diſciplized by teaching, (for ſo the word in Matth. ſignifies) and then be baptiſed: or firſt beleeve, and then bee baptiſed, Mark 16.16. want of faith doth hinder baptiſme in Gods account, but no<g ref="char:EOLhyphen"/>thing elſe, Acts 8.36, 37. the Eunuch be<g ref="char:EOLhyphen"/>leeving with all his heart, was admitted to baptiſme, otherwiſe he could not: and they that had the Holy Ghoſt given to them, whereby they manifeſted repentance unto life: could not rightly have baptiſme de<g ref="char:EOLhyphen"/>nyed them, otherwiſe they might, <hi>Act.</hi> 10.45, 46, 47. and 11, 15. And this is every where the tenure of the Scripture, as in Mat. 3. all over, Mark 1.4, 5. Luke 3.3, 7, 8, 9, 10, 11, 12, 13, 14. in all which places, wee may plainly ſee two things; Iohns preaching, and the peoples practiſe: the heads of his teach<g ref="char:EOLhyphen"/>ing were that they ſhould repent, and be baptiſed for the remiſſion of ſin. In the peo<g ref="char:EOLhyphen"/>ples practice wee may ſee, firſt, they came
+<pb n="3" facs="tcp:170637:4"/>
+               <!-- PDF PAGE 29 -->out of all the Regions (where he had taught) to Jordan; ſecondly, they confeſt their ſins; thirdly, they were inquiſitive about the minde of God, Luke 3.9, 10, 11, 12, 13, 14. fourthly, they were baptiſed of <hi>Iohn</hi> in Jor<g ref="char:EOLhyphen"/>dan. The like preaching did <hi>Peter</hi> preach, Act. 2.38. ſaying, repent and be baptiſed e<g ref="char:EOLhyphen"/>very one of you, for the remiſſion of ſinne. The Apoſtle would have every one to bee baptiſed, but firſt he would have them eve<g ref="char:EOLhyphen"/>ry one to repent. And the ſame practice was practiſed by Gods people there: for they that gladly received the word were bapti<g ref="char:EOLhyphen"/>ſed, ver. 41. the like preaching was preacht by <hi>Philip.</hi> And the like practice was pra<g ref="char:EOLhyphen"/>ctiſed by thoſe that were converted by him. For when they beleeved <hi>Philip</hi> preashing to them the things concerning the kingdom of God, and the name of Jeſus Chriſt, they were baptiſed both men and women, Acts 8.12. The like preaching was preacht by <hi>Paul;</hi> and the like practice was practiſed by the Jayler and his houſhold, Act. 16.31, 32, 33, 34. in which ſee three things. Firſt, <hi>Paul</hi> ſpake the word of the Lord to him and all
+<pb n="4" facs="tcp:170637:4"/>
+               <!-- PDF PAGE 29 -->his: ſecondly, hee and all his beleeved on God: thirdly, he and all his were baptiſed ſtraightway. The like preaching he preacht to <hi>Criſpus,</hi> and other Corinthians, Act. 18.8. and the like was practiſed by them, for they hearing, beleeved, and were baptiſed. The ſame was preacht to <hi>Lidias</hi> and hers; and the ſame was practiſed by them, Acts 16.13, 14, 15. the ſame might bee ſeene by the Eunuch, &amp; by <hi>Cornelius</hi> and his friends, and conſequently by all Gods people.</p>
+            <div type="part">
+               <head>Obſerve alſo 3. arguments.</head>
+               <p>Firſt, Chriſt gave his Diſciples commiſ<g ref="char:EOLhyphen"/>ſion concerning baptiſme, to baptiſe belee<g ref="char:EOLhyphen"/>vers, Mark 16.16. and this reacheth to the end of the world, Matth. 28.19, 20. there<g ref="char:EOLhyphen"/>fore not to baptiſe them, or they not to bee baptiſed, is to diſregard his commiſſion, and to baptiſe others (eſpecially ſo knowne) is to goe beyond his commiſſion.</p>
+               <p>Secondly, want of faith, or of the new birth, is the onely bar to baptiſme, therefore they that enjoy theſe things may alſo enjoy baptiſme, but none elſe, Acts 8.36, 37. and 10.45, 46, 47.</p>
+               <p>
+                  <pb n="5" facs="tcp:170637:5"/>
+                  <!-- PDF PAGE 30 -->
+Thirdly, the Scripture holdeth out no o<g ref="char:EOLhyphen"/>ther baptiſme in any place, but of ſuch as have faith, or repentance wrought in them, therefore they being not baptiſed, Gods word is taken from them, and to baptiſe o<g ref="char:EOLhyphen"/>thers is to adde to it, the danger of which ſee Revel. 22.18, 19.</p>
+            </div>
+            <div type="part">
+               <head>Application.</head>
+               <p>This informes us of a great miſtake about baptiſme, even among Gods people them<g ref="char:EOLhyphen"/>ſelves. Some are for it, as it is in the pub<g ref="char:EOLhyphen"/>licke aſſemblies, with all the appurtenances, being ſo taught. 2. Some finde the ſigning of the partie with the croſſe to bee mans in<g ref="char:EOLhyphen"/>vention, and if that were left, they thinke it were right. 3. Some finde ſureties no where ſpoken of in Scripture, and if that were re<g ref="char:EOLhyphen"/>medied, they thinke it compleat baptiſme, not minding perhaps the blaſphemous ſpee<g ref="char:EOLhyphen"/>ches, which is worſe then any of them: as that the childe thus baptiſed is regenerate and borne anew: and that Jeſus Chriſt hath ſanctified the river Jordan, and all other waters to the waſhing away of ſins, which is horrible blaſphemy, attributing that to wa<g ref="char:EOLhyphen"/>ter
+<pb n="6" facs="tcp:170637:5"/>
+                  <!-- PDF PAGE 30 -->which is peculiar to the blood of Chriſt, 1 Iohn 1.7. Alſo in regard of the ſubject, there is great miſtake. Some think being ſo taught, that the children of al pro<g ref="char:EOLhyphen"/>feſſed Proteſtants are to be baptiſed. Some thinke the children of beleevers: others thinke only the children of ſuch beleevers as are members of ſome particular Church are to be baptiſed, and none elſe: whereas if they would but ſearch the Scriptures, and embrace this truth, all theſe newfound and ſcripturcleſſe baptiſmes would fall to the ground at once.</p>
+               <p>Secondly, they that baptiſe children, or any that cannot manifeſt faith, are guilty of the prophanation of Gods ordinance. Tis not their deſcent from godly parents will ſerve turne, as appears Luke 3.8, 9. though the Iews had high thoughts of themſelves in this reſpect, Iohn 8.44. and the Gen<g ref="char:EOLhyphen"/>tiles were <gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>ly ſwaid that way, as 1 Tim. 1.4. the which opinion is ſharply reproved by Iohn, by Chriſt, and by Paul in thoſe Scriptures.</p>
+               <p>Thirdly, hence we learne that they that
+<pb n="7" facs="tcp:170637:6"/>
+                  <!-- PDF PAGE 31 -->are fit ſubjects of baptiſme, I meane they whoſe hearts the Lord hath toucht with his feare, and yet keepe off from baptiſme, are guilty of the neglect or contempt of Gods ordinance: the danger of which ſee an example of in the Phariſees and Law<g ref="char:EOLhyphen"/>yers, for when the Publicans juſtified God and were baptiſed with the baptiſme of Iohn, they rejected the counſell of God a<g ref="char:EOLhyphen"/>gainſt themſelves, and were not baptiſed of him, Luke 7.29, 30.</p>
+               <p>Fourthly, this may teach Gods people to beware of judging and cenſuring the profeſſors of this truth, as if they were too nice or too preciſe, for this diſcovers in them (though Gods people) the remainders of the old man, for naturally we are all gi<g ref="char:EOLhyphen"/>ven to ſpeak evill of the things wee know not, or have not formerly been brought up in: the open prophane people ſpeake ill of Puritans (as they call them) becauſe they run not with them in the ſame exceſſe of riot, 1 Pet. 4.3. and thoſe called Puritans ſpeak evil of Browniſts (ſo called) for they out ſtrip them, and they ſpeake evill of us,
+<pb n="8" facs="tcp:170637:6"/>
+                  <!-- PDF PAGE 31 -->we going one ſtep higher, to wit, in point of B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſme: thus did Praiſgod Barbon of late, his ſin being open I may give him o<g ref="char:EOLhyphen"/>pen reproofe, 1 Tim. 5.20. who in ſtead of proving the lawfulnes or baptiſing infants, taking on him ſo to doe, in the meane time derides us, and leaves that undone. Much like to peeviſh Ionah, 4.2. who in ſtead of praying to God fell a quarrelling with God. But my earneſt deſire is, that I and Mr. Barbon, and all Gods people, though differing in judgement, might not differ in affections, but that there may be love and tender affections among us, ſeeing we are brethren, and that we uſe no ſuch violent ſpeeches to one another, or to any, ſith wee have learned that the wrath of man doth not accompliſh the righteouſneſſe of God, Iam. 1.10. and that the wiſdome from a<g ref="char:EOLhyphen"/>bove is pure and peaceable, and eaſie to be intreated, and that the fruits of the Spirit are love, joy, peace, long ſuffering, gentle<g ref="char:EOLhyphen"/>neſſe, &amp;c hatred, debate, emulations, wrath &amp;c, are the works of the fleſh, Gal. 5 21.22<g ref="char:punc">▪</g>
+               </p>
+               <p>You deride us in your booke about the
+<pb n="9" facs="tcp:170637:7" rendition="simple:additions"/>
+                  <!-- PDF PAGE 32 -->riſe, matter, and manner of baptiſme, the two laſt are clearely proved by Scripture already, the riſe of it being once loſt, is the only thing to clear; of that therefore a few words. Our baptiſme received in our in<g ref="char:EOLhyphen"/>fancy (being corrupted) is notwithſtanding true or falſe: if true, though corrupted (as you hold) then needs muſt the other ordi<g ref="char:EOLhyphen"/>nances be true, the Church alſo true, for nothing (I conceive) is more corrupted (if ſo much) as baptiſme, as in the firſt uſe; and then it followes that you doe ill in leaving true ordinances, and true Church ſtate, and ſhould then returne againe. Ob. We ſhift off the corruptions only. Anſ. Then ſhould you goe to the root, and ſtrike at the grea<g ref="char:EOLhyphen"/>teſt corruption firſt, which is I conceive in the ſubject. Your onely courſe then would be to let your infants remaine unbaptiſed, and then ſuch as you and others (upon tri<g ref="char:EOLhyphen"/>all) judge to be in covenant, and precious in Gods account; you might ſafely bap<g ref="char:EOLhyphen"/>tiſe by vertue of your baptiſme, if yours be true, though corrupted, as you hold it is; &amp; not doing ſo, you go a wrong way to work
+<pb n="10" facs="tcp:170637:7"/>
+                  <!-- PDF PAGE 32 -->to root out corruption. But for my part, I beleeve Chriſt will at no rate own the bap<g ref="char:EOLhyphen"/>tiſing of infants for his baptiſme, and there<g ref="char:EOLhyphen"/>fore not true. And then it followes that it being falſe, is to be renounced as wel as the Church ſtate being falſe, and true baptiſm as well as true Church ſtate is to bee erect<g ref="char:EOLhyphen"/>ed; except we turne Familiſts and Liber<g ref="char:EOLhyphen"/>tines, to let all alone, and live looſly, which opinion is held out, for ought I know, only by ſuch as are given up to their own luſts.</p>
+               <p>Ob. But where is your warrant for ſo doing? I anſwer, That every Scripture that gives you warrant, or any of your judgement, to erect a Church ſtate, gives us the ſame warrant to erect baptiſme, ſith the one cannot be done without the other, for none can put on Chriſt (that is viſibly by outward profeſſion) but ſuch as are bap<g ref="char:EOLhyphen"/>tiſed into Chriſt, that is into the way, or profeſſion of Chriſt, for ſo is the meaning, Gal. 3.27.</p>
+               <p>So that as a certaine company of you agreeing in one, may become a body with every ones mutuall conſent: juſt ſo might
+<pb n="11" facs="tcp:170637:8"/>
+                  <!-- PDF PAGE 33 -->we or you take up this ordinance too, I mean if it be ſo that otherwiſe wee cannot partake of it (as once it was) and alſo know that Chriſt puts not impoſſibilities upon us; and we are no where ſo enjoyned, that if we can<g ref="char:EOLhyphen"/>not know abſolutely a people that hath up<g ref="char:EOLhyphen"/>held it ever ſince John, then not to partake of it, but we are abſolutely enjoined to be bap<g ref="char:EOLhyphen"/>tiſed, Mark 16.16. Which is an impoſſibi<g ref="char:EOLhyphen"/>lity if that muſt needs be a tye. Againe, if Chriſt had ſo tied us, then would you bee put to a great ſtrait, to prove that baptiſme that you have partakt of to bee ſo upheld, which thing I beleeve you cannot poſſibly doe; you muſt take the Popes word for it, or elſe ſome Hiſtorie or other, which I dare not credit as I doe the Bible.</p>
+               <p>After this you affirme many things (I think unſound) deſiring the Reader to judge of three things eſpecially. Firſt you affirme that all the children lineally deſcending from the faithfull, are in the everlaſting co<g ref="char:EOLhyphen"/>venant of God, and are the children of the promiſe, and many ſuch expreſſions; but the word ſaith, if ye be Chriſts, then are yee A<g ref="char:EOLhyphen"/>brahams
+<pb n="12" facs="tcp:170637:8"/>
+                  <!-- PDF PAGE 33 -->ſeed, and heires by promiſe, Gal. 3.29. and the children of the fleſh are not the children of God, but the children of the promiſe are accounted for the ſeed; the chil<g ref="char:EOLhyphen"/>dren of the promiſe are there put in oppoſi<g ref="char:EOLhyphen"/>tion to the children of the fleſh. But to bee briefe, weigh alſo theſe places following, Gal. 3.7, 9, 14. Rom. 9.6, 7, 8. 2 Cor. 1.20. 1 Tim 4.8. Againe you ſay, that the chil<g ref="char:EOLhyphen"/>dren in the Church at Coloſſe were bapti<g ref="char:EOLhyphen"/>ſed is plaine, Col. 3.20, 21. I am ſure it is plaine that thoſe words doe not ſay ſo. But I thinke you meane there is a plaine conſe<g ref="char:EOLhyphen"/>quence, as thus, There were children in that Church, Col. 3.20, 21. but no Church doth conſiſt of unbaptiſed perſons; therfore thoſe children were baptiſed. I grant this fully, that a Church, cannot conſiſt of unbaptiſed perſons, and that ſome there had parents li<g ref="char:EOLhyphen"/>ving, and were children in this ſenſe, ſith the Apoſtle there writes to children, but I think the Apoſtle doth not write to infants, which you drive at, though I think aſhamed to ex<g ref="char:EOLhyphen"/>preſſe it. For any man indued with reaſon might gainſay that; and I wonder that you
+<pb n="13" facs="tcp:170637:9"/>
+                  <!-- PDF PAGE 34 -->being ſo exceeding large in the foregoing matter, ſhould ſo paſſe this place over as you doe. 3. You affirme that Jeſus Chriſt gave plaine and expreſſe order and command to baptiſe children, which you will make ap<g ref="char:EOLhyphen"/>peare thus; whole nations were to bee bap<g ref="char:EOLhyphen"/>tiſed, but children are a part of nations, ther<g ref="char:EOLhyphen"/>fore to be baptiſed: by the ſame ground it appeares that you do unbeleevers and their children wrong, excluding them, ſith they are a part of nations. But if Chriſt did plain<g ref="char:EOLhyphen"/>ly command that children ſhould bee bapti<g ref="char:EOLhyphen"/>ſed, as you ſay he did, Math. 28.19. you need not goe ſo to worke to make it appeare. A plaine command will appeare to every ones view that reads it. But I deſire you hence<g ref="char:EOLhyphen"/>forward to father your errors your ſelfe, and not becauſe they ſhould paſſe ſay the Scrip<g ref="char:EOLhyphen"/>ture plainly ſayes it, for ſo doing you wrong the Scripture, and double your ſin.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:170637:9"/>
+            <!-- PDF PAGE 34 -->
+            <p>
+               <figure>
+                  <head>Yorke.</head>
+                  <figDesc>portrait</figDesc>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
